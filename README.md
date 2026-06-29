@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/Dierfn/dyrzzz-client-new/main/assets/banner.svg" alt="DyrzzzClient" width="100%"/>
-
+<img src="assets/banner.png" alt="DyrzzzClient" width="100%"/>
 <div align="center">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-00e5c0?style=flat-square)
