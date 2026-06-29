@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29481023/README.md)
-<img src="assets/banner.svg" alt="DyrzzzClient" width="100%"/>
+<img src="https://raw.githubusercontent.com/Dierfn/dyrzzz-client-new/main/assets/banner.svg" alt="DyrzzzClient" width="100%"/>
 
 <div align="center">
 
